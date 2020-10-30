@@ -16,7 +16,7 @@ This repository contains the inventory management application, built with ASP.NE
 * Change the connection string in the appsettings.json file that points to your SQL Server
 * Run the project.
 
-#References 
+# References 
 
 1. https://www.syncfusion.com/blogs/post/how-to-build-crud-rest-apis-with-asp-net-core-3-1-and-entity-framework-core-create-jwt-tokens-and-secure-apis.aspx
 
